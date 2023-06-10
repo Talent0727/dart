@@ -19,7 +19,6 @@ See our [directory](https://github.com/TheAlgorithms/Dart/blob/master/DIRECTORY.
 
 From [Wikipedia][linear-wiki]: linear search or sequential search is a method for finding a target value within a list. It sequentially checks each element of the list for the target value until a match is found or until all the elements have been searched.
   Linear search runs in at the worst linear time and makes at most n comparisons, where n is the length of the list.
-
 __Properties__
 * Worst case performance    O(n)
 * Best case performance    O(1)
